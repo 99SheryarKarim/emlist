@@ -31,7 +31,7 @@ const Billing = () => (
               more emails using multiple rigorous checks. The results of email
               verification tell you which addresses are undeliverable so that
               you can remove them. In other words, it gives you peace of mind by
-              narrowing your focus to much better leads.shedy melvinshyysaj
+              narrowing your focus to much better leads.
             </p>
           </div>
           <div id="nnn" className="flex flex-col gap-2 mb-4">

@@ -121,11 +121,10 @@ const App = () => {
             <li>Influencers</li>
           </ul>
           <p className="text-gray-700">
-            [Your Company Name] provides a user-friendly and free-of-cost
-            service that goes beyond email validation. We assess the quality of
-            each email to ensure you have a clean and engaged audience. Join us
-            today and experience the difference in your email communication
-            strategy!
+            EML.IST provides a user-friendly and free-of-cost service that goes
+            beyond email validation. We assess the quality of each email to
+            ensure you have a clean and engaged audience. Join us today and
+            experience the difference in your email communication strategy!
           </p>
         </div>
       </div>
