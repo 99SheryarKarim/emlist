@@ -1,0 +1,188 @@
+/* billing.css */
+
+/* animations.css */
+
+@keyframes float {
+  50% {
+    /* box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.6); */
+    transform: translateY(0px);
+  }
+  50% {
+    /* box-shadow: 0 25px 15px 0px rgba(0, 0, 0, 0.2); */
+    transform: translateY(-20px);
+  }
+  100% {
+    /* box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.6); */
+    transform: translateY(0px);
+  }
+}
+
+
+.animated-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+
+
+#man-verify {
+  /* border: 1px solid red; */
+  width: 170%;
+}
+/* #CTA-sec{
+  position: relative;
+  top: 0px;
+} */
+
+
+
+@media screen and (max-width: 747px) {
+#CTA-sec{
+  /* border: 1px solid red; */
+  margin-top: 230px;
+}
+
+}
+@media screen and (max-width: 430px) {
+  #CTA-sec{
+   
+    margin-top: 390px;
+  }
+  
+  }
+
+
+@media screen and (max-width: 747px) {
+  #hhh {
+    display: none;
+  }
+
+  #random-cards{
+    display: none;
+  }
+  #random-h2{
+    display: none;
+  }
+  #clients{
+    display: none;
+  }
+}
+
+
+@media screen and (max-width: 487px) {
+#searchinp{
+  width: 397px;
+}
+
+
+}
+
+@media screen and (max-width: 421px) {
+  #searchinp{
+    width: 247px;
+  }
+  
+  
+  }
+  @media screen and (max-width: 481px) {
+    #verf{
+      font-size: 34px;
+      line-height: 52px;
+   /* color: red; */
+    }
+    
+    
+    }
+
+    @media screen and (max-width: 666px) {
+      #features{
+        /* border: 1px solid red; */
+        height: 110vh;
+      }
+      
+      
+      }
+      @media screen and (max-width: 574px) {
+        #main-card{
+         width: 30rem;
+        }
+        
+        
+        }
+
+        @media screen and (max-width: 541px) {
+          #main-card{
+           width: 24rem;
+          }
+          
+          
+          }
+          @media screen and (max-width: 439px) {
+            #main-card{
+             width: 20rem;
+            }
+            
+            
+            }
+
+            @media screen and (max-width: 507px) {
+              #features{
+               height: 136vh;
+              }
+              
+              
+              }
+              @media screen and (max-width: 428px) {
+                #features{
+                 height:140vh ;
+                }
+                
+                
+                }
+                @media screen and (max-width: 398px) {
+                  #features{
+                   height:154vh ;
+                  }
+                  #main-card{
+                    width: 17rem;
+                   }
+                  
+                  
+                  }
+                  @media screen and (max-width: 373px) {
+                    #features{
+                     height:170vh ;
+                    }
+                
+                    
+                    
+                    }
+                    @media screen and (max-width: 419px) {
+                      #features{
+                       height: 160vh;
+                      }
+                  
+                      
+                      
+                      }
+  
+                      @media screen and (max-width: 382px) {
+                        #features{
+                         height: 170vh;
+                         /* border: 1px solid red; */
+                        }
+                    
+                        
+                        
+                        }
+                        
+                        
+                      @media screen and (max-width: 366px) {
+                        #features{
+                         height: 190vh;
+                         /* border: 1px solid red; */
+                        }
+                    
+                        
+                        
+                        }
+
